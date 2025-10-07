@@ -128,3 +128,11 @@ uv add mypy-stubgen
 stubgen -p parallel_executor -o stubs
 mypy main.py 
 ```
+
+## coverage
+todo
+
+## pytest
+```
+python -m pytest test_executor.py -v 
+```
