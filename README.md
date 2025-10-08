@@ -14,7 +14,7 @@ A parallel execution library supporting both async and sync task execution with 
 ## Installation
 
 ```bash
-pip install parallel-executor
+uv add git+https://github.com/Lerr1uqs/parallel-executor.git
 ```
 
 ## Usage
