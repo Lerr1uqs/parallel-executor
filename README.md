@@ -130,7 +130,10 @@ mypy main.py
 ```
 
 ## coverage
-todo
+```
+coverage run -m pytest 
+coverage report
+```
 
 ## pytest
 ```

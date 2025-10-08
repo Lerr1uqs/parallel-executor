@@ -7,7 +7,7 @@ name = "parallel-executor"
 version = "0.1.0"
 description = "A parallel execution library supporting both async and sync task execution with event emission and callbacks"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 dependencies = [
     "pydantic>=2.0.0",
     "pyee>=11.0.0"
